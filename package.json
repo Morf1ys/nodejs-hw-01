@@ -21,6 +21,7 @@
     "globals": "^15.1.0"
   },
   "dependencies": {
-    "@faker-js/faker": "^8.4.1"
+    "@faker-js/faker": "^8.4.1",
+    "path": "^0.12.7"
   }
 }
